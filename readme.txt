@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is free 345345 234234234 under the GPL.234234234231212
+Git is free software 123123 under the GPL.
